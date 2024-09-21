@@ -1,2 +1,2 @@
 # DataPreprocessing-
-### Titanic Dataset Preprocessing  - Handled missing values in `Age`, `Embarked`, and `Fare` columns. - Encoded categorical features like `Sex` and `Embarked` into numerical values. - Performed feature scaling and created new features like `FamilySize`. - Split the dataset into training and testing sets for model evaluation.  This ensures the data is clean and ready for analysis or machine learning.
+### Titanic Dataset Preprocessing  - Handled missing values in `Age`, `Embarked` columns. - Encoded categorical features like `Sex` and `Embarked` into numerical values. This ensures the data is clean and ready for analysis or machine learning.
